@@ -528,6 +528,7 @@ let createReport = function(){
 
  return {
     Run: function (settings) {
+      console.log("tesssstttt");
       init(settings);
     }
   }
