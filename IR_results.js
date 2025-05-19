@@ -535,12 +535,12 @@ let createReport = function(){
 
 
 
-(function($, ksAPI){
+/*(function($, ksAPI){
   ksAPI.runCustomCode(function () {
     APIModule.Run(ukDemo);
   });
 })(jQuery, ksAPI);
-
+*/
 
 var ukDemo = {
       companyID:"5402",
